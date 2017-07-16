@@ -1,0 +1,3 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Ini bagian pertama}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Ini subbagian pertama}{2}{0}{1}

@@ -1,0 +1,7 @@
+\frametitle{Kode}
+\begin{semiverbatim}
+\\begin\{frame\}
+\\frametitle\{Outline\}
+\\tableofcontents
+\\end\{frame\}
+\end{semiverbatim}
